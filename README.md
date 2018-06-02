@@ -7,7 +7,7 @@ If you have any question, please do not hesitate to contact me.
 
 ### Reference
 - **Paper on arXiv**: https://arxiv.org/abs/1805.09701
-- **Paper on AAAI**: Coming soon!
+- **Paper on SIGKDD**: Coming soon!
 
 
 If you use this project as part of any published research, please acknowledge the following paper.
