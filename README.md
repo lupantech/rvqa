@@ -6,6 +6,7 @@ If you have any question, please do not hesitate to contact me.
 
 
 ### Reference
+- **Paper on SIGKDD**: http://www.kdd.org/kdd2018/accepted-papers/view/r-vqa-learning-visual-relation-facts-with-semantic-attention-for-visual-que
 - **Paper on arXiv**: https://arxiv.org/abs/1805.09701
 - **Paper on SIGKDD**: Coming soon!
 
