@@ -1,6 +1,6 @@
 # rvqa
 
-The Relation-VQA data will be released soon.
+The Relation-VQA dataset is released!
 
 If you have any question, please do not hesitate to contact me.
 
