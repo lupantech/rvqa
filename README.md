@@ -18,7 +18,7 @@ Or you can download the data files one by one:
 - [vqa_raw_train_0.30.json](https://drive.google.com/file/d/1R3Hdkqx2sSw2B8Z4VIWQzkrjLfJ7-76y)
 - [vqa_raw_val_0.30.json](https://drive.google.com/file/d/18K9WjLu4hN1gEgrJaPSlvZopORlxsGtk)
 - [vqa_raw_train_val_0.30.json](https://drive.google.com/file/d/1YDhjFxUzd6zRFJxXA7V968eE0PUk8f-l)
-- [vqa_raw_test_0.30.json](https://drive.google.com/file/d/18K9WjLu4hN1gEgrJaPSlvZopORlxsGtk)
+- [vqa_raw_test_0.30.json](https://drive.google.com/file/d/1HPjR6uSaUVeftVKwuejRkb_SnmNvm7RK)
 
 **Alias rules**
 - [alias_map_dict.json](https://drive.google.com/file/d/1tnEZPtu8lwjFM0WwmpfTE3DIyb_eSF8z)
