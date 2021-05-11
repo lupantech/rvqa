@@ -6,7 +6,7 @@ If you have any question, please do not hesitate to contact me.
 
 
 ## Relation-VQA Dataset
-The dataset can be download from the links: [[Link 1](https://drive.google.com/file/d/15zrDnagK3qgKYGkVUrnwr0Zrf2Y8VlSA)], [[Link 2](https://drive.google.com/file/d/1x2T7R6XB3pmqCstffhK_Zv7CkKui95wB)]. 
+The dataset can be downloaded from the links: [[Link 1](https://drive.google.com/file/d/15zrDnagK3qgKYGkVUrnwr0Zrf2Y8VlSA)], [[Link 2](https://drive.google.com/file/d/1x2T7R6XB3pmqCstffhK_Zv7CkKui95wB)]. 
 
 Or you can download the data files one by one:
 
