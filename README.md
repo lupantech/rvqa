@@ -10,8 +10,8 @@ The dataset can be download from the links: [[Link 1](https://drive.google.com/f
 
 Or you can download the data files one by one:
 **The whole dataset**
-- [vqa-rel_map_result_0.30.json](https://drive.google.com/file/d/1YoYMvsg7WweMrz1zC-hPFcTNi21G_Srv)
-- [vqa-rel_map_result_0.30.txt](https://drive.google.com/file/d/1RJIFFp20x5lXbpGgWxb3AXa3I8ONfoJ4)
+- [vg_vqa-rel_map_result_0.30.json](https://drive.google.com/file/d/1YoYMvsg7WweMrz1zC-hPFcTNi21G_Srv)
+- [vg_vqa-rel_map_result_0.30.txt](https://drive.google.com/file/d/1RJIFFp20x5lXbpGgWxb3AXa3I8ONfoJ4)
 
 **The splitting dataset**
 - [vqa_raw_train_0.30.json](https://drive.google.com/file/d/1R3Hdkqx2sSw2B8Z4VIWQzkrjLfJ7-76y)
