@@ -6,21 +6,21 @@ If you have any question, please do not hesitate to contact me.
 
 
 ## Relation-VQA Dataset
+The dataset can be download by the links: [Link 1](https://drive.google.com/drive/folders/1NzK1aCSoNSUiLTPQzHih4DSmRDpE1LbJ), [Link 2](https://drive.google.com/file/d/1x2T7R6XB3pmqCstffhK_Zv7CkKui95wB), 
 
-
-
+Or you can download the data files one by one:
 **The whole dataset**
-- [vqa-rel_map_result_0.30.json](https://drive.google.com/open?id=1OnzMi23jVAyXQP7xmEBweg2BrhJm4t7D)
-- [vqa-rel_map_result_0.30.txt](https://drive.google.com/open?id=1_nuNvYRdpRYvU39CH3Kaqcz1CyzKUDJj)
+- [vqa-rel_map_result_0.30.json](https://drive.google.com/file/d/1YoYMvsg7WweMrz1zC-hPFcTNi21G_Srv)
+- [vqa-rel_map_result_0.30.txt](https://drive.google.com/file/d/1RJIFFp20x5lXbpGgWxb3AXa3I8ONfoJ4)
 
 **The splitting dataset**
-- [vqa_raw_train_0.30.json](https://drive.google.com/open?id=1w1Kaqfsn1qKII9d6Al18xsr7Bj2blCl8)
+- [vqa_raw_train_0.30.json](https://drive.google.com/file/d/1R3Hdkqx2sSw2B8Z4VIWQzkrjLfJ7-76y)
 - [vqa_raw_val_0.30.json](https://drive.google.com/open?id=1GnID5XgWav2ao6J8cswwtWPx9lKzML3z)
-- [vqa_raw_train_val_0.30.json](https://drive.google.com/open?id=1LNc6kX1gRlFyJNwhtuDxj4f1WEeYmqB-)
-- [vqa_raw_test_0.30.json](https://drive.google.com/open?id=1j5YlmsQW5yfyZHZr8kUN8ZC_ufOCvZwe)
+- [vqa_raw_train_val_0.30.json](https://drive.google.com/file/d/1YDhjFxUzd6zRFJxXA7V968eE0PUk8f-l)
+- [vqa_raw_test_0.30.json](https://drive.google.com/file/d/18K9WjLu4hN1gEgrJaPSlvZopORlxsGtk)
 
 **Alias rules**
-- [alias_map_dict.json](https://drive.google.com/open?id=1_muDDtiYNX3nR3cZ8fz7ivZaVcTTgT2a)
+- [alias_map_dict.json](https://drive.google.com/file/d/1tnEZPtu8lwjFM0WwmpfTE3DIyb_eSF8z)
 
 ### Reference
 - **Paper on SIGKDD**: http://www.kdd.org/kdd2018/accepted-papers/view/r-vqa-learning-visual-relation-facts-with-semantic-attention-for-visual-que
